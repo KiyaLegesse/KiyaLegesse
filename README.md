@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KiyaLegesse
 - 👀 I’m interested in React, next, flutter, node, Golang
-- 📫 You can reach me on telegram @koyadream hunhu.et, +251910271383
+- 📫 You can reach me on telegram @koyadream on my website hunhu.et, +251910271383
